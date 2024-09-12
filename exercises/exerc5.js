@@ -10,5 +10,5 @@ switch(grade){
         console.log("Students that got an A will get a Chocolate");
         break;
     default:
-        console.log("No reward to give");
+        console.log("No reward to give.");
 }

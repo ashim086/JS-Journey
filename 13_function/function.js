@@ -6,7 +6,7 @@
 
 /*
 
-value();
+value()
 function value(){
     let name="ashim";
     let age=21;
@@ -14,7 +14,7 @@ function value(){
 }
        */
 function birthday_wisher(name,age){
-    console.log("happy birthday "+name+" you are now "+age+" year old");
+    console.log(`happy birthday ${name} you are now ${age} year old`);
     console.log("happy birthday "+name+" you are now "+age+" year old");
     console.log("happy birthday "+name+" you are now "+age+" year old");
     console.log("happy birthday "+name+" you are now "+age+" year old");

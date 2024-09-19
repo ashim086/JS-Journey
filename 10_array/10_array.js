@@ -5,11 +5,11 @@ let aeroplanes=[];
 let aeroplanes=["boeing","white body "];
 
 for pushing
-1.push()//it deletes elements from back
-2.unshift()//it delets the element from headd
+1.push()//it adds elements from back
+2.unshift()//it adds the element from headd
 
 for pop
-1.pop()//it deletes elements from back
+1.pop()//it delets elements from back
 2.shift()//it delets the element from headd
 
 to identify the position in array
